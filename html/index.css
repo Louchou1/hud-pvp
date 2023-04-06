@@ -1,0 +1,75 @@
+#heal {
+    position:absolute;
+    left: 80%;
+    top:90%;
+    margin: 1.12%;
+    margin-left: 2%;
+    width: 15%;
+    height: 1.5%;
+    padding:0px;
+    text-align: center;
+    border: 3px solid rgba(34, 32, 32, 0.74);
+    float:left;
+    background-color:rgba(34, 32, 32, 0.74);
+}
+#armor {
+    position:absolute;
+    left: 80%;
+    top: 93%;
+    margin: 1.12%;
+    margin-left: 2%;
+    width: 15%;
+    height: 1.5%;
+    padding:0px;
+    text-align: center;
+    border: 3px solid rgba(34, 32, 32, 0.74);
+    float:left;
+    background-color:rgba(34, 32, 32, 0.74);
+}
+#box, #boxArmor {
+    background: #fffdff;
+    width: 50%;
+    height: 100%;
+}
+
+#boxArmor {
+    background: #43dafc;
+}
+
+.iconarmor {
+    width: 14px;
+    height: 14px;
+    position:absolute;
+    left: 15%;
+    top: 15%;
+}
+
+.backarmor {
+    position:absolute;
+    left: 80.7%;
+    top: 95%;
+    height: 21px;
+    width: 21px;
+    background-color:rgba(34, 32, 32, 0.74);
+}
+
+.iconheal {
+    width: 18px;
+    height: 18px;
+    position:absolute;
+    left: 9%;
+    top: 10%;
+}
+
+.backheal {
+    position:absolute;
+    left: 80.7%;
+    top: 92%;
+    height: 21px;
+    width: 21px;
+    background-color:rgba(34, 32, 32, 0.74);
+}
+
+body {
+overflow:hidden;
+}
